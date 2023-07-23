@@ -1,0 +1,8 @@
+GameProject {
+ ID "BlueTeamCampaign"
+ GUID "5DEF505911393F09"
+ TITLE "BlueTeamCampaign"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
